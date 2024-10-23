@@ -1,8 +1,0 @@
-{
-    "compilerOptions": {
-        "outDir": "js",
-        "target": "ES5",
-        "lib": ["ES2015", "DOM"],
-        "removeComments": true
-    }
-}
